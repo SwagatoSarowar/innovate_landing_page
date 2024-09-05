@@ -13,9 +13,9 @@ export default {
         "dark-400": "#2C2643",
       },
       backgroundImage: {
-        "hero-bg": 'url("./src/assets/hero-bg.png")',
-        "facts-bg": 'url("./src/assets/facts-bg.png")',
-        "cta-bg": 'url("./src/assets/cta-bg.png")',
+        "hero-bg": 'url("/hero-bg.png")',
+        "facts-bg": 'url("/facts-bg.png")',
+        "cta-bg": 'url("/cta-bg.png")',
       },
     },
   },
